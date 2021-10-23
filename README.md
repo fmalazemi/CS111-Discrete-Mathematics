@@ -1,4 +1,10 @@
 # CS111 Discrete Mathematics, Fall 2021
+
+### Objective
+Build the necessary mathematical foundation for your computer science career.
+
+
+
 ### Important Dates and Grade Distribution:
 
 | Part        | Percentage  |
