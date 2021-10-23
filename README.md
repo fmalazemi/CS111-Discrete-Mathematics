@@ -8,7 +8,7 @@ Build the necessary mathematical foundation for your computer science career.
 ## Important Dates and Grade Distribution:
 
 | Part        | Percentage  |
-| ------------- | -----:|
+| :-------------: |:-----:|
 | HomeWorks     | 10%|
 | Quizzes       | 10%|
 | 1st Midterm  | 20%|
