@@ -8,7 +8,7 @@ Build the necessary mathematical foundation for your computer science career.
 ## Important Dates and Grade Distribution:
 
 | Part        | Percentage  |
-| :-------------: |:-----:|
+| :-------------|:-----:|
 | HomeWorks     | 10%|
 | Quizzes       | 10%|
 | 1st Midterm  | 20%|
@@ -24,7 +24,7 @@ Build the necessary mathematical foundation for your computer science career.
 
 ## Tantitive Plan 
 | Sections        | Topic  | Weeks | Notes
-| ------------- |:-----|:----:|:----:|
+|:-------------:|:-----|:----:|:----:|
 | 1.1, 1.3-1.8 | Logic & Proofs| 2| |
 | 2.1-2.4 | Basic Structures | 2 | | 
 |5.1-5.3 | Induction & Recursion | 2|  |
