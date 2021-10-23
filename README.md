@@ -1,10 +1,8 @@
 # CS111 Discrete Mathematics, Fall 2021
 ### Important Dates and Grade Distribution:
 
-* Homeworks   ..... 5%
-* Quizzez     ..... 5%
-* 1st Midterm ..... 20%
-* 2nd Midterm ..... 20%
-* Final EXam  ..... 40%
-* Bonuses     ..... 5%
-
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
