@@ -16,8 +16,11 @@ Build the necessary mathematical foundation for your computer science career.
 | Final 22/01/2022 8am-10am   | 40%|
 | Bonusses | 5%|
 
+## Book
+### Official Book
 
-
+### Extra References
+* fkdosfsd
 
 
 
