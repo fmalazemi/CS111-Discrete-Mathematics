@@ -25,7 +25,7 @@ Build the necessary mathematical foundation for your computer science career.
 ## Tantitive Online 
 | Sections        | Topic  | Weeks
 | ------------- |:-----:|:----|
-| HomeWorks     | 10%|
+| Logic & Proofs     | 10%|
 | Quizzes       | 10%|
 | 1st Midterm  | 20%|
 | 2nd Midterm  | 20%|
