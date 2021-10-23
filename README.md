@@ -40,7 +40,6 @@ Build the necessary mathematical foundation for your computer science career.
 * Assignments: 
  ..* **One-day late**, receive *%50* of your total grade. 
  ..* **Two or more days late**, receive *zero* grade. 
- ..* You are allowed to skip only one assignment. 
 * It is your responsibility to write in clear way. *If I can't read ...  I can't grade*.
 
 
