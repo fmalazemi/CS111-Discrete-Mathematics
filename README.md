@@ -17,10 +17,11 @@ Build the necessary mathematical foundation for your computer science career.
 | Bonusses | 5%|
 
 ## Book
-### Official Book
+* Discrete Mathematics and its Applications, Kenneth H. Rosen, Latest edition
+#### Extra resources
+* Youtube.com
+* Youtube.com
 
-### Extra References
-* fkdosfsd
 
 
 
