@@ -2,7 +2,8 @@
 
 ## Objective
 Build the necessary mathematical foundation for your computer science career.
-
+## Prerequisites: 
+*None*
 
 
 ## Important Dates and Grade Distribution:
