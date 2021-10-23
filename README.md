@@ -19,8 +19,8 @@ Build the necessary mathematical foundation for your computer science career.
 ## Book
 * Discrete Mathematics and its Applications, Kenneth H. Rosen, Latest edition
 #### Extra resources
-* Youtube.com
-* Youtube.com
+* https://www.youtube.com/c/Trevtutor
+* https://www.youtube.com/c/DrTreforBazett
 
 ## Tantitive Online 
 | Sections        | Topic  | Weeks
