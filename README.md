@@ -35,12 +35,14 @@ Build the necessary mathematical foundation for your computer science career.
 |11.1 | Trees | 1 |
 
 ## Policy
-* Attendance is \textbf{mandatory} and will effect your grade.  
+* Attendance is **mandatory** and will effect your grade.  
 * Not all the details are covered in class. It is \textbf{your job to understand} all the details from the book. 
-* Late Assignments: 
+* Assignments: 
  ..* **One-day late**, receive *%50* of your total grade. 
  ..* **Two or more days late**, receive *zero* grade. 
+ ..* You are allowed to skip only one assignment. 
 * It is your responsibility to write in clear way. *If I can't read ...  I can't grade*.
+
 
 
 
