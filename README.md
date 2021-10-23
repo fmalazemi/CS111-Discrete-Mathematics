@@ -42,6 +42,14 @@ Build the necessary mathematical foundation for your computer science career.
   - **Two or more days late**, receive *zero* grade. 
 - It is your responsibility to write in clear way. *If I can't read ...  I can't grade*.
 
+## How to Suceed in CS111
+* Do the assignments by yourself and to the best of your ability. 
+* Start working on assignments once they are posted. **NOT** *24hrs* before the deadline. 
+* Don't be afraid to ask questions. 
+* If you have difficulties understanding the material **Talk** to me or the TA . 
+* Solve book problems. **Solve book problems.** *Solve book problems.*
+* Read The Book. **Read The Book.** *Read The Book.*
+
 
 
 
