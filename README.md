@@ -1,2 +1,3 @@
 # CS111 Discrete Mathematics
+## Fall 2021
 
