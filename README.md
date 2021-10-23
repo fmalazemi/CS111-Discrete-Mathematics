@@ -34,6 +34,14 @@ Build the necessary mathematical foundation for your computer science career.
 |10.1-10.4 | Graphs  | 2|
 |11.1 | Trees | 1 |
 
+## Policy
+* Attendance is \textbf{mandatory} and will effect your grade.  
+* Not all the details are covered in class. It is \textbf{your job to understand} all the details from the book. 
+* Late Assignments: 
+ ..* **One-day late**, receive *%50* of your total grade. 
+ ..* **Two or more days late**, receive *zero* grade. 
+* It is your responsibility to write in clear way. *If I can't read $\ldots$  I can't grade*.
+
 
 
 
