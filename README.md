@@ -40,7 +40,7 @@ Build the necessary mathematical foundation for your computer science career.
 * Late Assignments: 
  ..* **One-day late**, receive *%50* of your total grade. 
  ..* **Two or more days late**, receive *zero* grade. 
-* It is your responsibility to write in clear way. *If I can't read $\ldots$  I can't grade*.
+* It is your responsibility to write in clear way. *If I can't read ...  I can't grade*.
 
 
 
