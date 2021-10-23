@@ -38,6 +38,8 @@ Build the necessary mathematical foundation for your computer science career.
 * Attendance is **mandatory** and will effect your grade.  
 * Not all the details are covered in class. It is \textbf{your job to understand} all the details from the book. 
 * Assignments: 
+
+
  ..* **One-day late**, receive *%50* of your total grade. 
  ..* **Two or more days late**, receive *zero* grade. 
 * It is your responsibility to write in clear way. *If I can't read ...  I can't grade*.
